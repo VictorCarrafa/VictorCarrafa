@@ -1,16 +1,19 @@
-### Hi there 👋
+## Quem sou eu ?
 
-<!--
-**VictorCarrafa/VictorCarrafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Victor Carrafa**, meu cargo é de Programador Trainee desde agosto/2023, no ramo de desenvolvimento de site/aplicações Web. Estou no primeiro ano de minha jornada, focado no aprendizado das linguagens front-end como HTML5, CSS3 e JavaScript.
 
-Here are some ideas to get you started:
+## Como falar comigo ?
+[GitHub]: https://github.com/VictorCarrafa
+[Instagram]: https://www.instagram.com/victor.carrafa/
+[Linkedin]: https://www.linkedin.com/in/victor-hugo-carrafa-a33ba8188/
+[Facebook]: https://www.facebook.com/victor.carrafa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code> Acesse meu perfil no [GitHub][GitHub] 
+
+<code><img height="30" src="https://imagepng.org/instagram-icone-icon/instagram-icone-icon-1/"></code> Me segue lá no [Instagram][Instagram] 
+
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></code> Me adiciona lá no [Linkedin][Linkedin] 
+
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"></code> Me acompanha lá no [Facebook][Facebook] 
+ 
+
