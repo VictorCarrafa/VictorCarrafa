@@ -1,6 +1,6 @@
 ## Quem sou eu ?
 
-Meu nome é **Victor Carrafa**, meu cargo é de Programador Trainee desde agosto/2023, no ramo de desenvolvimento de site/aplicações Web. Estou no primeiro ano de minha jornada, focado no aprendizado das linguagens front-end como HTML5, CSS3 e JavaScript.
+Meu nome é Victor Carrafa, meu cargo é de Programador Trainee desde agosto/2023, no ramo de desenvolvimento de sites/aplicações Web. Estou no primeiro ano de minha jornada, focado no aprendizado das linguagens front-end como HTML5, CSS3 e JavaScript, além de expandir meus conhecimentos em Java, explorando sua aplicação no desenvolvimento web e back-end.
 
 ## Como falar comigo ?
 [GitHub]: https://github.com/VictorCarrafa
